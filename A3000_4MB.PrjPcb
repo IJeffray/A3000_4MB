@@ -143,31 +143,31 @@ DocumentPath=Project Outputs for A3000_4MB\Design Rule Check - A3000_4MB.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=BOM_RevNo
+Name=Sch_RevNo
 Value=1.0
 
 [Parameter2]
-Name=Engineer_Name
-Value=Codion Ltd
-
-[Parameter3]
-Name=PCB_RevNo
-Value=1.0
-
-[Parameter4]
-Name=Project_Title
-Value=A3000_4MB
-
-[Parameter5]
-Name=ProjectName
-Value=A3000_4MB
-
-[Parameter6]
 Name=Sch_releaseDate
 Value=2023
 
+[Parameter3]
+Name=Project_Title
+Value=A3000_4MB
+
+[Parameter4]
+Name=ProjectName
+Value=A3000_4MB
+
+[Parameter5]
+Name=PCB_RevNo
+Value=1.1
+
+[Parameter6]
+Name=Engineer_Name
+Value=Codion Ltd
+
 [Parameter7]
-Name=Sch_RevNo
+Name=BOM_RevNo
 Value=1.0
 
 [Configuration1]
@@ -474,6 +474,12 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
